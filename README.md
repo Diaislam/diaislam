@@ -4,7 +4,6 @@
 - 🌱 I’m currently a computer vision TeamLead
 - 👯 I’m also a software enginner
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=blue&right_color=grey)
 
 ### Keywords
 ![](https://img.shields.io/badge/Python-3-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
