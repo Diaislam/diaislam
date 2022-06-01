@@ -15,6 +15,6 @@
 ![](https://img.shields.io/badge/MLOPs-data_pipelines-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/GANs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Siamese_Networks-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
-![](https://img.shields.io/badge/Vue3-Vuetify-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Vue3-NuxtJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Laravel-6-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Android-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
