@@ -1,8 +1,8 @@
 ### Hola 👋
 
 - 🔭 my personal webpage [Dhia](https://me.curiowitty.com) 
-- 🌱 I’m currently a computer vision TeamLead
-- 👯 I’m also a software enginner
+- 🌱 I’m a Lead Computer Vision Enginner
+- 👯 I’m also a Software Enginner
 
 
 ### Keywords
